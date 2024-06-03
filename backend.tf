@@ -5,9 +5,9 @@ terraform{
     }
   }
     cloud {
-        organization = "sami123123123"
+        organization = "Montreal-College"
       workspaces {
-        name = "aws_demo_montreal_college"
+        name = "aws_IAM"
       }
     }
 
